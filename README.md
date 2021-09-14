@@ -1,2 +1,2 @@
 # szcoral-ar
-An ar app with aforia support
+An ar app with vuforia support
